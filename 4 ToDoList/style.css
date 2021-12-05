@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.todo {
+  list-style: none;
+  padding: 5px;
+}
+
+.todo:hover {
+  cursor: pointer;
+  color: blue;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "Poppins", sans-serif;
+}
+
+.show-btn {
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+}
+
+.date-wrapper {
+    font-size: 16px;
+  }
+  
+.show-hide {
+    display: none;
+}

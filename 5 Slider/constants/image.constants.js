@@ -1,0 +1,1 @@
+export const images = ['img1.jpeg', 'img2.jpeg', 'img3.png'];
